@@ -1,4 +1,4 @@
-# Test-for-propine
+# Simple command line program for digital currency wallet. 
 This System is based on Node.js
 For Api i used cryptocompare freeversion.
 I have divided the whole task into 2 parts.
